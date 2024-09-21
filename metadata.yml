@@ -1,0 +1,12 @@
+---
+:id: 182102711
+:submitters:
+- :name: Katie Hancock
+  :email: katiexh@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-05-31 00:50:36.282054000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-05-30 17:50:36.282054000 Z
+:status: processed
+:score: 90.0
